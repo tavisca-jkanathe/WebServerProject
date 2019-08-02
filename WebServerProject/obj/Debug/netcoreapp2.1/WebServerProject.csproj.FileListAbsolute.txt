@@ -1,0 +1,11 @@
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\bin\Debug\netcoreapp2.1\WebServerProject.deps.json
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\bin\Debug\netcoreapp2.1\WebServerProject.runtimeconfig.json
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\bin\Debug\netcoreapp2.1\WebServerProject.runtimeconfig.dev.json
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\bin\Debug\netcoreapp2.1\WebServerProject.dll
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\bin\Debug\netcoreapp2.1\WebServerProject.pdb
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\obj\Debug\netcoreapp2.1\WebServerProject.csprojAssemblyReference.cache
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\obj\Debug\netcoreapp2.1\WebServerProject.csproj.CoreCompileInputs.cache
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\obj\Debug\netcoreapp2.1\WebServerProject.AssemblyInfoInputs.cache
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\obj\Debug\netcoreapp2.1\WebServerProject.AssemblyInfo.cs
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\obj\Debug\netcoreapp2.1\WebServerProject.dll
+C:\Users\jkanathe\source\repos\WebServerProject\WebServerProject\obj\Debug\netcoreapp2.1\WebServerProject.pdb
